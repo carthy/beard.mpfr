@@ -1,0 +1,12 @@
+*.lo
+/tests/
+config.*
+Makefile
+.libs
+*.tmp
+lex.yy.c
+doc/gmp.info*
+
+libtool
+src/libmpfr.la
+src/mparam.h
