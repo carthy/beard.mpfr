@@ -5,7 +5,7 @@ Makefile
 .libs
 *.tmp
 lex.yy.c
-doc/gmp.info*
+autom4te.cache/
 
 libtool
 src/libmpfr.la
